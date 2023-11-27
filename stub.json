@@ -1,0 +1,1 @@
+{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"create a program to count vehicles from a video, you must classify them by type: motorcycles, cars, minibuses, buses, trucks","md5":"92303397f1b69102dcd8026ca690caed"}]}
